@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>DE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -544.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="DE" transform="translate(1.000000, 288.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#F65260" xlink:href="#path-1"></use>
+                <path d="M0,10 L0,12.9951185 C0,14.102384 0.90234375,15 1.99456145,15 L19.0054385,15 C20.1070044,15 21,14.1061002 21,12.9951185 L21,10 L0,10 Z" id="bottom" fill="#FBCC62"></path>
+                <path d="M1.99456145,0 C0.892995579,0 0,0.893899798 0,2.0048815 L0,5 L21,5 L21,2.0048815 C21,0.897616023 20.0976562,0 19.0054385,0 L1.99456145,0 Z" id="top" fill="#292929"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

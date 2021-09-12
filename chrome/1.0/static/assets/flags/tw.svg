@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>TW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -1315.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="TW" transform="translate(1.000000, 1059.000000)">
+                <rect id="Rectangle-2-Copy" fill="#F65260" x="0" y="0" width="21" height="15" rx="2"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+                <path d="M0,8 L11,8 L11,0 L1.5,0 C0.671572875,1.52179594e-16 -1.01453063e-16,0.671572875 0,1.5 L0,8 Z" id="Rectangle-2-Copy-2" fill="#0E5396" mask="url(#mask-2)"></path>
+                <polygon id="Star-27" fill="#FFFFFF" points="5.5 5.25 4.54329142 6.30969883 4.61611652 4.88388348 3.19030117 4.95670858 4.25 4 3.19030117 3.04329142 4.61611652 3.11611652 4.54329142 1.69030117 5.5 2.75 6.45670858 1.69030117 6.38388348 3.11611652 7.80969883 3.04329142 6.75 4 7.80969883 4.95670858 6.38388348 4.88388348 6.45670858 6.30969883"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

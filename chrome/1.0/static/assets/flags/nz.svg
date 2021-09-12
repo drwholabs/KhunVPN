@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>NZ</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -1168.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="NZ" transform="translate(1.000000, 912.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#0E5396" xlink:href="#path-1"></use>
+                <polygon id="cross" fill="#A7B6E7" points="5 9.79549114 6 9.79549114 6 10.7750403 7 10.7750403 7 11.7545894 6 11.7545894 6 12.7341385 5 12.7341385 5 11.7545894 4 11.7545894 4 10.7750403 5 10.7750403"></polygon>
+                <polygon id="Path" fill="#A7B6E7" points="14 2.93864734 14 3.91819646 15 3.91819646 15 2.93864734"></polygon>
+                <polygon id="Path" fill="#A7B6E7" points="17 3.91819646 17 4.89774557 18 4.89774557 18 3.91819646"></polygon>
+                <polygon id="Path" fill="#A7B6E7" points="13 5.87729469 13 6.8568438 14 6.8568438 14 5.87729469"></polygon>
+                <polygon id="Path" fill="#A7B6E7" points="16 6.8568438 16 7.83639291 17 7.83639291 17 6.8568438"></polygon>
+                <polygon id="Path" fill="#A7B6E7" points="15 9.79549114 15 10.7750403 16 10.7750403 16 9.79549114"></polygon>
+                <rect id="top-left" fill="#FFFFFF" x="1" y="0.979549114" width="9" height="6.8568438" rx="1"></rect>
+                <polygon id="cross" fill="#D72342" points="5 4.89774557 2 4.89774557 2 3.91819646 5 3.91819646 5 1.95909823 6 1.95909823 6 3.91819646 9 3.91819646 9 4.89774557 6 4.89774557 6 6.8568438 5 6.8568438"></polygon>
+                <polygon id="Path" fill="#D72342" points="7.5 5.87729469 7.5 6.8568438 9 6.8568438 9 5.87729469"></polygon>
+                <polygon id="Path" fill="#D72342" points="7.5 1.95909823 7.5 2.93864734 9 2.93864734 9 1.95909823"></polygon>
+                <polygon id="Path" fill="#D72342" points="2 5.87729469 2 6.8568438 3.5 6.8568438 3.5 5.87729469"></polygon>
+                <polygon id="Path" fill="#D72342" points="2 1.95909823 2 2.93864734 3.5 2.93864734 3.5 1.95909823"></polygon>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

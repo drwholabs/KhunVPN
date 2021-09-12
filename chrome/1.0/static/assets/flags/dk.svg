@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="16px" viewBox="0 0 23 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>DK</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="1" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-18.000000, -592.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="DK" transform="translate(0.000000, 336.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#F65260" xlink:href="#path-1"></use>
+                <polygon id="cross" fill="#FFFFFF" points="7 0 10 0 10 5.96864737 22.0054932 5.96864737 22.0054932 8.96864737 10 8.96864737 10 15.0117798 7 15.0117798 7 8.96864737 0.966186523 8.96864737 0.966186523 5.96864737 7 5.96864737"></polygon>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="1.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>IN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="14.6932367" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -1120.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="IN" transform="translate(1.000000, 864.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M0,10.0999756 L0,13.0056205 C0,14.1058273 0.90234375,14.9977212 1.99456145,14.9977212 L19.0054385,14.9977212 C20.1070044,14.9977212 21,14.0993991 21,13.0056205 L21,10.0999756 L0,10.0999756 Z" id="bottom" fill="#3F9A3C"></path>
+                <path d="M1.99456145,0 C0.892995579,0 0,0.898322026 0,1.99210062 L0,4.89774557 L21,4.89774557 L21,1.99210062 C21,0.891893826 20.0976562,0 19.0054385,0 L1.99456145,0 Z" id="top" fill="#EF680F"></path>
+                <ellipse id="circle" stroke="#A7B6E7" cx="10.5" cy="7.34661836" rx="1" ry="1"></ellipse>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

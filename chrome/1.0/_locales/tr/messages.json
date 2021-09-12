@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Bu Ülkeden Giriş Yap"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Bir dakika bekleyin..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Bağlantıyı kesmek için tıklayın"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Bağlanıyor"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Bağlanmak için Paylaşın"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Bağlanmak için tıklayın"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Bağlantı Kesiliyor"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "Bu Ülkeden Giriş Yaptınız"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Şifreleme"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "etkin"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "devre dışı"
+   },
+   "description": {
+      "description": "",
+      "message": "KhunVPN istemcisi, sansür ve ağ izlemenin yanı sıra DNS bloklarını atlamak için bir araçtır. Tüm ağ trafiğini makineden çıkış düğümüne yönlendirebilir ve bu iletişimi ve içinden geçen verileri şifreleyebilir."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Sunucu arızalı. Lütfen ağ bağlantılarınızı kontrol edin. Özür dileriz."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Proxy hizmetimiz şu anda kullanılamıyor. Özür dileriz. Lütfen farklı bir seçenek belirleyin."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Otomatik Seçim"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Konum Seç"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Sanal Konum"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">Süpersin !\u003C/p>\u003Cp>Lütfen bize Trustpilot'ta 5 yıldızlı bir puan vermek için bir dakikanızı ayırın.\u003C/p>\u003Cp class=\"small\">Birkaç dakika içinde yönlendirileceksiniz...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "KhunVPN'i beğendiniz mi? Lütfen Derecelendirin."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Daha Sonra Hatırlat"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "Sitelere ve uygulamalara güvenli bir şekilde erişmek için KhunVPN kullanmayı seviyorum. Bir şans ver!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Mutluluğunuzu paylaştığınız için çok teşekkür ederiz!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Bizi sosyal medyada paylaşarak mutluluğu da paylaşın!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Ana Sayfa"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Gizlilik İlkesi"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Hizmet Şartları"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "sürüm $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Lütfen proxy ayarlarınızı kontrol eden diğer uzantıları (reklam engelleme yazılımları, diğer VPN hizmetleri vb.) devre dışı bırakın."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Diğer VPN Uzantılarını Devre Dışı Bırakın"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "KhunVPN, proxy ayarlarınızı kontrol eden bir başka Chrome uzantısı tarafından engelleniyor."
+   }
+}

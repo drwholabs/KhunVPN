@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>US</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="21" height="13"></rect>
+        <rect id="path-3" x="0" y="1" width="9" height="6"></rect>
+        <rect id="path-4" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -256.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="US" transform="translate(1.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="rectangle">
+                    <use fill="#0E5396" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#0B4278" stroke-width="1" x="0.5" y="1.5" width="8" height="5"></rect>
+                </g>
+                <rect id="rectangle-copy" fill="#0E5396" x="1" y="1" width="7" height="5"></rect>
+                <polygon id="stars" fill="#A7B6E6" points="1 1 1 2 2 2 2 1"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="3 1 3 2 4 2 4 1"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="5 1 5 2 6 2 6 1"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="7 1 7 2 8 2 8 1"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="6 2 6 3 7 3 7 2"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="4 2 4 3 5 3 5 2"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="2 2 2 3 3 3 3 2"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="1 3 1 4 2 4 2 3"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="3 3 3 4 4 4 4 3"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="5 3 5 4 6 4 6 3"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="7 3 7 4 8 4 8 3"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="1 5 1 6 2 6 2 5"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="3 5 3 6 4 6 4 5"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="5 5 5 6 6 6 6 5"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="7 5 7 6 8 6 8 5"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="6 4 6 5 7 5 7 4"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="4 4 4 5 5 5 5 4"></polygon>
+                <polygon id="Path" fill="#A7B6E6" points="2 4 2 5 3 5 3 4"></polygon>
+                <polygon id="stripe" fill="#F65260" points="9 2 9 3 21 3 21 2"></polygon>
+                <polygon id="Path" fill="#F65260" points="9 4 9 5 21 5 21 4"></polygon>
+                <polygon id="Path" fill="#F65260" points="9 6 9 7 21 7 21 6"></polygon>
+                <polygon id="Path" fill="#F65260" points="0 8 0 9 21 9 21 8"></polygon>
+                <polygon id="Path" fill="#F65260" points="0 10 0 11 21 11 21 10"></polygon>
+                <polygon id="Path" fill="#F65260" points="0 12 0 13 21 13 21 12"></polygon>
+                <path d="M0,14.5 C0,14.7761424 0.221630886,15 0.498391226,15 L20.5016088,15 C20.7768626,15 21,14.7680664 21,14.5 L21,14 L0,14 L0,14.5 Z" id="Path" fill="#F65260"></path>
+                <path d="M9,1 L21,1 L21,0.5 C21,0.223857625 20.7709994,0 20.4996527,0 L9,0 L9,1 Z" id="Path" fill="#F65260"></path>
+                <path d="M0,1 L9,1 L9,0.5 C9,0.223857625 8.77752686,0 8.49033415,0 L0,0 L0,1 Z" id="Path-Copy" fill="#0B4278" transform="translate(4.500000, 0.500000) scale(-1, 1) translate(-4.500000, -0.500000) "></path>
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

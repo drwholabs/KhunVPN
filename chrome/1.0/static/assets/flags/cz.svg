@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>CZ</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.652324314,14.4781405 C0.252621095,14.1139446 0,13.5901868 0,13.0081158 L0,1.99188419 C0,1.3900049 0.268088622,0.849696085 0.691683685,0.484178579 L10,7 L0.652324314,14.4781405 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -496.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="CZ" transform="translate(1.000000, 240.000000)">
+                <path d="M0,7 L0,13.0018986 C0,14.1054196 0.90234375,15 1.99456145,15 L19.0054385,15 C20.1070044,15 21,14.1132936 21,13.0018986 L21,7 L0,7 Z" id="bottom" fill="#F65260"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#0E5396" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

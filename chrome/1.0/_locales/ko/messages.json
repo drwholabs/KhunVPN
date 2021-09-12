@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "탐색 위치"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "잠시 기다려 주세요..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "클릭하여 연결 끊기"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "연결 중"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "공유하여 연결"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "클릭하여 연결"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "연결 끊는 중"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "현재 탐색 위치"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "암호화 방식"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "활성화"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "비활성화"
+   },
+   "description": {
+      "description": "",
+      "message": "KhunVPN 클라이언트는 검열 및 네트워크 모니터링은 물론 DNS 차단을 우회하기 위한 도구입니다. 머신에서 송신 노드로 모든 네트워크 트래픽을 라우팅할 수 있을 뿐만 아니라 이 통신과 이를 통과하는 데이터를 암호화할 수 있습니다."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "서버가 중단되었습니다. 네트워크 연결을 확인하세요. 죄송합니다."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "프록시 서비스를 지금 사용할 수 없습니다. 죄송합니다. 다른 서비스를 시도해보세요."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "자동 선택"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "위치 선택"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "가상 위치"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "감사합니다!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">당신은 최고입니다 !\u003C/p>\u003Cp>잠시 시간을 내어 Trustpilot에서 별 5개를 평가해 주십시오.\u003C/p>\u003Cp class=\"small\">잠시 후 다음으로 리디렉션됩니다...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "KhunVPN 기능에 만족하시나요? 평점을 매겨 주세요."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "나중에 다시 알리기"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "저는 KhunVPN을 사용하여 사이트와 앱에 안전하게 액세스하는 것을 좋아합니다. 시도 해봐!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "감사합니다!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "다른 사용자에게 알려주셔서 감사합니다!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "소셜 미디어에 공유하여 다른 사용자에게도 알려주세요!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "홈"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "개인 정보 취급 방침"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "서비스 약관"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "버전 $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "프록시 설정을 제어하는 다른 확장 프로그램(예: 광고 차단 프로그램, 다른 VPN 서비스 등)을 비활성화하세요."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "다른 VPN 확장 프로그램 비활성화"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "사용자의 프록시 설정을 제어하는 다른 Chrome 확장 프로그램으로 인해 KhunVPN이 중단되고 있습니다."
+   }
+}

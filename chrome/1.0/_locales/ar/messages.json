@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "الاستعراض من"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "الرجاء الانتظار لحظة"
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "انقر لقطع الاتصال"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "جارٍ الاتصال"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "مشاركة للاتصال"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "انقر للاتصال"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "جارٍ قطع الاتصال"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "تقوم بالاستعراض من"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "التشفير عبارة عن"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "مفعل"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "معطّل"
+   },
+   "description": {
+      "description": "",
+      "message": "عميل KhunVPN هو أداة لتجاوز حجب DNS وكذلك الرقابة ومراقبة الشبكة. إنه قادر على توجيه كل حركة مرور الشبكة من الجهاز إلى عقدة الخروج بالإضافة إلى تشفير هذا الاتصال والبيانات التي تمر عبره."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "الخادم معطّل، يرجى التحقق من اتصالات الشبكة لديك. نعتذر عن ذلك."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "خدمة الوكيل غير متوفرة الآن، عفوًا للتعرض لهذا الأمر. يرجى محاولة اختيار خدمة أخرى."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "تحديد تلقائيًا"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "اختر موقعًا"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "موقع ظاهري"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "شكرًا لكم!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">أنت رائع!\u003C/p>\u003Cp>يرجى قضاء لحظة لمنحنا تقييم 5 نجوم على Trustpilot.\u003C/p>\u003Cp class=\"small\">ستتم إعادة توجيهك خلال لحظة...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "هل أعجبك KhunVPN؟ يرجى تقييمنا."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "التذكير لاحقًا"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "KhunVPN لتأمين الوصول إلى المواقع والتطبيقات. جربها!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "شكرًا لكم!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "شكرًا جزيلاً لك على نشر الإعجاب!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "شاركنا على مواقع التواصل الاجتماعي وانشر الإعجاب!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "الرئيسية"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "سياسة الخصوصية"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "شروط الخدمة"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "الإصدار $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "يرجى تعطيل الملحقات الأخرى (أدوات حظر الإعلانات، خدمات VPN الأخرى، وما إلى ذلك) والتي تتحكم في إعدادات وكيلك."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "تعطيل ملحقات VPN الأخرى"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "يتم إيقاف KhunVPN بواسطة ملحق آخر في مستعرض Chrome والذي يتحكم في إعدادات وكيلك."
+   }
+}

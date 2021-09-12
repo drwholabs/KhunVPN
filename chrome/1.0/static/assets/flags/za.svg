@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ZA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="1.5"></rect>
+        <path d="M7.10542736e-15,13.3917033 L7.10542736e-15,1.72503662 L7.5,7.55836995 L7.10542736e-15,13.3917033 Z" id="path-3"></path>
+        <path d="M7.10542736e-15,11.9444444 L7.10542736e-15,3 L5.75,7.47222222 L6.21724894e-15,11.9444444 Z" id="path-5"></path>
+        <path d="M19.5,9 C20.3284271,9 21,9.67157288 21,10.5 L21,15 L9,15 L2,9 L19.5,9 Z" id="path-7"></path>
+        <path d="M21,13.5 C21,14.3284271 20.3284271,15 19.5,15 L3.25,15 L9.25,10 L21,10 L21,13.5 Z" id="path-9"></path>
+        <path d="M19.5,0 C20.3284271,2.05519369e-15 21,0.671572875 21,1.5 L21,6 L9,6 L2,0 L19.5,0 Z" id="path-11"></path>
+        <path d="M21,3.5 C21,4.32842712 20.3284271,5 19.5,5 L3.25,5 L9.25,0 L21,0 L21,3.5 Z" id="path-13"></path>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -1615.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="ZA" transform="translate(1.000000, 1359.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#3F9A3C" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Combined-Shape-Copy-3" fill="#FBCC62" xlink:href="#path-3"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#262626" xlink:href="#path-5"></use>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Combined-Shape-Copy-2" fill="#FFFFFF" transform="translate(11.500000, 12.000000) scale(1, -1) translate(-11.500000, -12.000000) " xlink:href="#path-7"></use>
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#0E5396" xlink:href="#path-9"></use>
+                <mask id="mask-12" fill="white">
+                    <use xlink:href="#path-11"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-11"></use>
+                <mask id="mask-14" fill="white">
+                    <use xlink:href="#path-13"></use>
+                </mask>
+                <use id="Combined-Shape-Copy" fill="#F65260" transform="translate(12.125000, 2.500000) scale(1, -1) translate(-12.125000, -2.500000) " xlink:href="#path-13"></use>
+            </g>
+        </g>
+    </g>
+</svg>

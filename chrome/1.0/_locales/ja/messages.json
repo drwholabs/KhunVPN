@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "希望接続先:"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "お待ち下さい..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "クリックして接続解除"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "接続中"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "シェアして接続"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "クリックして接続"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "接続解除中"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "現在の接続先:"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "暗号化:"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "有効"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "無効"
+   },
+   "description": {
+      "description": "",
+      "message": "KhunVPNクライアントは、DNSブロック、検閲、ネットワーク監視を回避するためのツールです。マシンから出口ノードまでのすべてのネットワークトラフィックをルーティングするだけでなく、この通信とそこを通過するデータを暗号化することができます。"
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "サーバーが停止しています。ネットワーク接続を確認してください。ご迷惑をおかけして申し訳ありません。"
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "現在、プロキシサービスを利用できません。ご迷惑をおかけして申し訳ありません。別のサービスを選択してください。"
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "自動的に選択"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "ロケーションの選択"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "仮想VPN接続先"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "ありがとうございます!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">あなたは素晴らしいです。\u003C/p>\u003Cp>お手数ですが、Trustpilotで5つ\u003C/p>\u003Cp class=\"small\"星の評価をお願いいたします。数秒後に、あなたは...にリダイレクトされます。\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "KhunVPNを気に入りましたか? 評価をお願いします。"
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "後で通知する"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "サイトやアプリケーションに安全にアクセスするためにKhunVPNを愛用しています。ぜひ試してみてください。"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "ありがとうございます!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "シェアしてくださりありがとうございました!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "このサービスをソーシャルメディアでシェアしましょう"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "ホーム"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "個人情報保護方針"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "利用規約"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "バージョン $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "プロキシ設定を制御する他の拡張機能(広告ブロック機能や他のVPNサービスなど)を無効にしてください。"
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "他のVPN拡張機能を無効化"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "KhunVPNは、プロキシ設定を制御している別のChrome拡張機能によって遮断されています。"
+   }
+}

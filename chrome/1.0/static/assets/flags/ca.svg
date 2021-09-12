@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>CA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -400.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="CA" transform="translate(1.000000, 144.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M1.99791312,0 C0.894496173,0 0,0.893397331 0,1.99188419 L0,13.0081158 C0,14.1082031 0.898260623,15 1.99791312,15 L6,15 L6,0 L1.99791312,0 Z" id="left" fill="#F65260"></path>
+                <path d="M15,0 L15,15 L19.0020869,15 C20.1055038,15 21,14.1066027 21,13.0081158 L21,1.99188419 C21,0.891796927 20.1017394,0 19.0020869,0 L15,0 Z" id="right" fill="#F65260"></path>
+                <path d="M13,8 L8,8 L8.55555556,7.11111111 L8,6 L9.03448276,6.34482759 L10.5,4 L11.9655172,6.34482759 L13,6 L12.4444444,7.11111111 L13,8 Z M14,8 L7,8 L10,9.71428571 L10,11 L11,11 L11,9.71428571 L14,8 Z" id="ca" fill="#F65260"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

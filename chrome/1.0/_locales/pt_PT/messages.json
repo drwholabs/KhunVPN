@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Navegar de"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Só um momento..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Clique para desconectar"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Conectando"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Compartilhe para conectar"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Clique para conectar"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Desconectando"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "Você está navegando de"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Criptografia é"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "ativado"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "desativado"
+   },
+   "description": {
+      "description": "",
+      "message": "O cliente KhunVPN é uma ferramenta para contornar blocos DNS, bem como a censura e vigilância da rede. É capaz de encaminhar todo o tráfego da rede desde a máquina até ao nó de saída, bem como encriptar esta comunicação e os dados que passam através dela."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "O servidor não está disponível. Verifique as suas conexões com a rede. Lamentamos pelo inconveniente."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "O serviço de proxy está indisponível neste momento. Lamentamos pelo inconveniente. Tente escolher outro."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Selecionar automaticamente"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Escolher local"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Local virtual"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Obrigado!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">Você é fantástico!\u003C/p>\u003Cp>Por favor, reserve um momento para nos dar uma classificação de 5 estrelas no Trustpilot.\u003C/p>\u003Cp class=\"small\">Dentro de alguns momentos será redireccionado para...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "Você gosta do KhunVPN? Avalie-nos."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Lembrar mais tarde"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "Adoro utilizar o KhunVPN para aceder com segurança a sítios e aplicações. Experimente!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Obrigado!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Muito obrigado por espalhar o amor!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Compartilhe nas redes sociais e espalhe o amor!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Página principal"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Política privacidade"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Termos de serviço"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "versão $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Desabilite as outras extensões (bloqueadores de anúncios, outros serviços VPN, etc.) que controlam suas configurações de proxy."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Desabilite outras extensões de VPN"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "O KhunVPN está sendo interrompido por outra extensão Chrome que está controlando suas configurações de proxy."
+   }
+}

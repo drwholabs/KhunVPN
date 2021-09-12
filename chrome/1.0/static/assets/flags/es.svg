@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ES</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -641.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="ES" transform="translate(1.000000, 385.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#FBCC62" xlink:href="#path-1"></use>
+                <path d="M0,11 L0,13 C0,14.1045695 0.90234375,15 1.99456145,15 L19.0054385,15 C20.1070044,15 21,14.1122704 21,13 L21,11 L0,11 Z" id="bottom" fill="#F65260"></path>
+                <path d="M1.99456145,0 C0.892995579,0 0,0.887729645 0,2 L0,4 L21,4 L21,2 C21,0.8954305 20.0976562,0 19.0054385,0 L1.99456145,0 Z" id="top" fill="#F65260"></path>
+                <path d="M3.49769878,5 L7.50230122,5 C7.78515625,5 8,5.22282734 8,5.49769878 L8,9.50230122 C8,9.78515625 7.77717266,10 7.50230122,10 L3.49769878,10 C3.21484375,10 3,9.77717266 3,9.50230122 L3,5.49769878 C3,5.21484375 3.22282734,5 3.49769878,5 Z M4,6 L4,9 L7,9 L7,6 L4,6 Z M5,6 L6,6 L6,9 L5,9 L5,6 Z" id="symbol" fill="#F65260"></path>
+                <path d="M6,7 L7,7 L7,8 L6,8 L6,7 Z M4,6 L5,6 L5,7 L4,7 L4,6 Z" id="circles" fill="#F65260"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

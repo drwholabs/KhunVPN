@@ -1,0 +1,172 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Browse From"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Just a second..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Click to Disconnect"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Connecting"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Share to Connect"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Click to Connect"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Disconnecting"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "You Are Browsing From"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Encryption is"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "enabled"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "disabled"
+   },
+   "description": {
+      "description": "",
+      "message": "The KhunVPN client is a tool to bypass DNS blocks and also network censorship and surveillance. It is capable of routing all network traffic from the machine to the output node as well as encrypting this communication and the data passing through it."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Sever is down. Please check your network connections. Sorry about that."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Proxy service unavailable now. Sorry about that. Please try to choose another one."
+   },
+   "location": {
+      "description": "",
+      "message": "From"
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Select Automatically"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Choose Location"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Virtual Location"
+   },
+   "mobilePromoTitle": {
+      "description": "",
+      "message": "Check out KhunVPN for your mobile devices"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Thank you!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">You are Awesome!\u003C/p>\u003Cp>Please take a moment to give Us 5 star rating on Trustpilot.\u003C/p>\u003Cp class=\"small\">In a moment you will be redirected...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "Do you like KhunVPN? Please Rate Us."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Remind Later"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "I love using KhunVPN to securely access sites and apps."
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Thank you!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Thank you so much for spreading the love!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Share us on social media and spread the love!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Home"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Privacy Policy"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Terms Of Service"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "version $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Please disable other extensions (ad-blockers, other VPN services, etc.) that control your proxy settings."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Disable Other VPN Extensions"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "KhunVPN is being interrupted by another Chrome extension that is controlling your proxy settings."
+   },
+   "zone_connected": {
+      "description": "",
+      "message": "You Are Browsing"
+   },
+   "zone_connecting": {
+      "description": "",
+      "message": "Browse"
+   },
+   "zone_disconnected": {
+      "description": "",
+      "message": "Browse"
+   }
+}

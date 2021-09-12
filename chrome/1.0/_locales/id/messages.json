@@ -1,0 +1,152 @@
+{
+   "ConnectionMessageDisconnected": {
+      "description": "",
+      "message": "Telusuri Dari"
+   },
+   "authorizationInProgress": {
+      "description": "",
+      "message": "Tunggu sejenak..."
+   },
+   "connectionButtonTitleConnected": {
+      "description": "",
+      "message": "Klik untuk Memutuskan Sambungan"
+   },
+   "connectionButtonTitleConnecting": {
+      "description": "",
+      "message": "Menyambung"
+   },
+   "connectionButtonTitleDisabledShareReqired": {
+      "description": "",
+      "message": "Bagikan untuk Menyambung"
+   },
+   "connectionButtonTitleDisconnected": {
+      "description": "",
+      "message": "Klik untuk Menyambung"
+   },
+   "connectionButtonTitleDisconnecting": {
+      "description": "",
+      "message": "Memutuskan Sambungan"
+   },
+   "connectionMessageConnected": {
+      "description": "",
+      "message": "Anda Menelusuri Dari"
+   },
+   "connectionStatusPrefix": {
+      "description": "",
+      "message": "Enkripsi adalah"
+   },
+   "connectionStatusSuffixConnected": {
+      "description": "",
+      "message": "diaktifkan"
+   },
+   "connectionStatusSuffixDisconnected": {
+      "description": "",
+      "message": "dinonaktifkan"
+   },
+   "description": {
+      "description": "",
+      "message": "Il client KhunVPN è uno strumento per aggirare i blocchi DNS così come la censura e la sorveglianza della rete. È in grado di instradare tutto il traffico di rete dalla macchina al nodo di uscita e di criptare questa comunicazione e i dati che passano attraverso di essa."
+   },
+   "errorGenericNetworkProblem": {
+      "description": "",
+      "message": "Server mengalami gangguan. Periksa koneksi jaringan Anda. Maaf atas gangguan tersebut."
+   },
+   "errorProxyServerUnavailable": {
+      "description": "",
+      "message": "Layanan Proksi tidak tersedia sekarang. Maaf atas gangguan tersebut. Coba pilih layanan lainnya."
+   },
+   "locationSelectAutomatically": {
+      "description": "",
+      "message": "Pilih Secara Otomatis"
+   },
+   "longDescription": {
+      "description": "",
+      "message": ""
+   },
+   "mainChooseLocation": {
+      "description": "",
+      "message": "Pilih Lokasi"
+   },
+   "mainCurrentLocation": {
+      "description": "",
+      "message": "Lokasi Virtual"
+   },
+   "name": {
+      "description": "",
+      "message": "KhunVPN WebClient"
+   },
+   "promoRateUsThanks": {
+      "description": "",
+      "message": "Terima kasih!"
+   },
+   "promoRateUsThanksAndRedirect": {
+      "description": "",
+      "message": "\u003Cp class=\"big\">Sei grande!\u003C/p>\u003Cp>Prenditi un momento per darci una valutazione a 5 stelle su Trustpilot.\u003C/p>\u003Cp class=\"small\">In pochi istanti sarete reindirizzati a...\u003C/p>"
+   },
+   "promoRateUsTitle": {
+      "description": "",
+      "message": "Apakah Anda menyukai KhunVPN? Beri Nilai Kami."
+   },
+   "promoShareUsLater": {
+      "description": "",
+      "message": "Ingatkan Nanti"
+   },
+   "promoShareUsPostText": {
+      "description": "",
+      "message": "Amo usare KhunVPN per accedere in modo sicuro a siti e applicazioni. Provate!"
+   },
+   "promoShareUsThanks": {
+      "description": "",
+      "message": "Terima kasih!"
+   },
+   "promoShareUsThanksAndRedirect": {
+      "description": "",
+      "message": "Terima kasih telah menyebarkan kabar gembira ini!"
+   },
+   "promoShareUsTitle": {
+      "description": "",
+      "message": "Bagikan tentang kami di media sosial dan sebarkan kabar gembira ini!"
+   },
+   "promoShareUsTitleConnectionMotivated": {
+      "description": "",
+      "message": ""
+   },
+   "settingsBack": {
+      "description": "",
+      "message": "Beranda"
+   },
+   "settingsPrivacyPolicy": {
+      "description": "",
+      "message": "Kebijakan Privasi"
+   },
+   "settingsTermsOfSservice": {
+      "description": "",
+      "message": "Syarat Layanan"
+   },
+   "settingsVersion": {
+      "description": "",
+      "message": "versi $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "shortName": {
+      "description": "",
+      "message": "KhunVPN"
+   },
+   "unavailableDescription": {
+      "description": "",
+      "message": "Nonaktifkan ekstensi lainnya (pemblokir iklan, layanan VPN lain, dll.) yang mengontrol setelan proksi Anda."
+   },
+   "unavailableDisableOthersButton": {
+      "description": "",
+      "message": "Nonaktifkan Ekstensi VPN Lainnya"
+   },
+   "unavailableTitle": {
+      "description": "",
+      "message": "KhunVPN dihentikan oleh ekstensi Chrome lain yang mengontrol setelan proksi Anda."
+   }
+}

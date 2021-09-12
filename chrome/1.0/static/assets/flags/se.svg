@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="15px" viewBox="0 0 23 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>SE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="1" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-18.000000, -976.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="SE" transform="translate(0.000000, 720.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#0E5396" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="1.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+                <polygon id="cross" fill="#FBCC62" points="7 0 10 0 10 5.84658324 22.0054932 5.84658324 22.0054932 8.78523058 10 8.78523058 10 15 7 15 7 8.78523058 0.966186523 8.78523058 0.966186523 5.84658324 7 5.84658324"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

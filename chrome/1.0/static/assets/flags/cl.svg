@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>CL</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-416.000000, -930.000000)">
+        <g id="CL" transform="translate(416.000000, 930.000000)">
+            <g id="Mask">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#E5E5E5" stroke-width="1" x="0.5" y="0.5" width="27" height="19" rx="2"></rect>
+            </g>
+            <path d="M2,20 L26,20 C27.1045695,20 28,19.1045695 28,18 L28,9.33333333 L0,9.33333333 L-2.22044605e-16,18 C-8.67738547e-17,19.1045695 0.8954305,20 2,20 Z" id="Rectangle-2" fill="#F65260"></path>
+            <path d="M2,0 L9.33333333,0 L9.33333333,9.33333333 L0,9.33333333 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-83" fill="#0B48C2"></path>
+            <polygon id="Star-8" fill="#FFFFFF" points="4.66666667 5.70666671 3.09923933 6.82404532 3.67756785 4.98804435 2.13051596 3.84262135 4.05536998 3.82528896 4.66666667 2 5.27796335 3.82528896 7.20281738 3.84262135 5.65576548 4.98804435 6.23409401 6.82404532"></polygon>
+        </g>
+    </g>
+</svg>

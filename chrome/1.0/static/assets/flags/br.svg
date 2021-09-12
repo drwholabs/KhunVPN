@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>BR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="15" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="21" height="15" rx="2"></rect>
+    </defs>
+    <g id="Server-Location-Full-List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -352.000000)">
+        <g id="banners" transform="translate(18.000000, 256.000000)">
+            <g id="BR" transform="translate(1.000000, 96.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background" fill="#44D5AD" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke-opacity="0.05" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="20.5" height="14.5" rx="2"></rect>
+                <polygon id="polygon" fill="#FBCC62" points="10.5 2 18 7.5 10.5 13 3 7.5"></polygon>
+                <circle id="circle" fill="#0E5396" cx="10.5" cy="7.5" r="3.5"></circle>
+                <path d="M9,9 L9,10 L10,10 L10,9 L9,9 L9,9 Z M11,9 L11,10 L12,10 L12,9 L11,9 L11,9 Z" id="circles" fill="#91A1C3"></path>
+                <path d="M8,6 C8,6 10.2638459,6.39879108 11.8957688,7.09818662 C12.5971792,7.39879108 14,8 14,8" id="line" stroke="#C8D0E0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

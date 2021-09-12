@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Thin.ttf');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-ExtraLight.ttf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-SemiBold.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-ExtraBold.ttf');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('chrome-extension://__MSG_@@extension_id__/static/assets/fonts/WorkSans-Black.ttf');
+  font-weight: 900;
+}
+
+#_af_content_wall {
+  font-family: 'WorkSans', Arial, sans-serif !important;
+  position: fixed;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  z-index: 9999999999;
+  background-color: #ffffff;
+  height: 70px;
+
+  color: #3e434c;
+  font-size: 16px;
+  text-align: center;
+  line-height: 70px;
+
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+}
+
+#_af_content_wall_timer {
+  color: #0a0a13;
+  margin-left: 10px;
+}
+
+#_af_content_wall_counter {
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+  bottom: -1px;
+  border-radius: 6px;
+}
+
+#_af_content_wall_counter2 {
+  height: 4px;
+  width: 0;
+  background-color: #2fadf8;
+  bottom: 0;
+  border-radius: 6px;
+}
+
+#_af_content_wall_logo {
+  background-image: url('chrome-extension://__MSG_@@extension_id__/static/assets/logo.svg');
+  background-size: 162px 28px;
+  width: 162px;
+  height: 28px;
+  position: absolute;
+  left: 21px;
+  top: 21px;
+}
+
+#_af_content_wall_button {
+  color: #ffffff;
+  text-align: center;
+  width: 200px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  line-height: 40px;
+  cursor: pointer;
+  background-color: #2fa6f8;
+  border-radius: 6px;
+  height: 40px;
+  font-size: 16px;
+}
+
+#_af_content_wall_text {
+  display: flex;
+  justify-content: center;
+}
