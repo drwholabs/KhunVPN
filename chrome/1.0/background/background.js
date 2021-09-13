@@ -25825,8 +25825,8 @@
             }
             return e
         }({
-            id: "touch-vpn-chrome",
-            name: "touch-vpn",
+            id: "khun-vpn-chrome",
+            name: "khun-vpn",
             applicationId: browser.runtime.id,
             appName: 5
         }, (() => {
@@ -25843,7 +25843,7 @@
             }
         })()),
         authorization: {
-            carrier: "khunvpn",
+            carrier: "touchvpn",
             platform: "chrome"
         },
         protocolPrefix: "chrome-extension",
@@ -25855,12 +25855,12 @@
             api: "https://api.hsselite.com/1/plain/",
             enabled: !0,
             prefix: "TC",
-            popupUtm: "khunvpn_ChromeExtension",
+            popupUtm: "touchvpn_ChromeExtension",
             deviceInfo: {
                 make: navigator.userAgent.match(/Chrom(e|ium)/g) ? navigator.userAgent.match(/Chrom(e|ium)/g)[0] : "undefined",
                 model: "Chrome",
                 platform: 5,
-                package_name: "com.khunvpn.extchrome"
+                package_name: "com.touchvpn.extchrome"
             }
         },
         proxy: {
