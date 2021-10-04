@@ -17,7 +17,7 @@ Once the server is selected it decodes the base64 configuration data into UFT-8 
 
 ### With specific country :
 
-- [x] Korea Republic of
+- [x] Republic of Korea
 - [ ] Iran (ISLAMIC Republic Of)
 - [x] United States
 - [ ]  France
